@@ -34,6 +34,7 @@ public class DiceGameUI {
 		DiceGame game = new DiceGame();
 		
 		while (keepPlaying) {
+			System.out.println ("this is a change to code");
 			System.out.println ();
 			System.out.println (player.getName() + ": Rolling the dice...");
 					
