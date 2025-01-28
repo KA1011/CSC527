@@ -9,6 +9,7 @@ import edu.southalabama.dicegame.model.Player;
 
 public class DiceGameUI {
 	
+	
 	private final static Scanner f_commandLine = new Scanner(System.in);
 
 	/**
